@@ -9,4 +9,4 @@ I've attached Python script which decodes flag but not the disassembled firmware
 
 #HINT:
 
-- microcontroller do some I/O operations to bitbang data
+- microcontroller does some I/O operations to bitbang data
